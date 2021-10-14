@@ -40,3 +40,22 @@ Would you like to try another one? N
 
 Thanks for paying!
 ```
+
+### Incorrect Month Response
+```
+Welcome to Birthday Date Meaning Generator!
+Please enter the month of your birthday: NOT A MONTH
+You have entered an incorrect response. Please try again.
+Please enter the month of your birthday: 10
+Please enter the day of your birthday: 24
+Please enter the year of your birthday: 1995
+
+The month of October means means eight
+The 24th of October means Stable Relationship
+The year of 1995 means that you are a millenial
+Would you like to try another one? N
+
+
+
+Thanks for paying!
+```
